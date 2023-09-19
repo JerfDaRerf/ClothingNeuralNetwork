@@ -1,3 +1,3 @@
 # ClothingNeuralNetwork
 
-TODO: Add a modeling element
+TODO: Frontend/Backend
